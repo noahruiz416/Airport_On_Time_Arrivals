@@ -1,8 +1,8 @@
 # Airport_On_Time_Arrivals
 
-## Summary 
-Every month thousands of airline flights are cancelled, rescheduled, or delayed, leading to negative sentiment from consumers, potential losses from cancelled flights and in the worse cases a chain reaction of delayed flights across multiple airports. For a consumer this leads to a negative customer experience and for the airlines themselves, can cause a decrease in customer & brand loyalty.
-This poses the question, what can airlines do to predict flight arrival delays? And from there how can airlines use statistical models and data analytics to mitigate potential loss from large delay times.
+## Results Summary 
+Every month thousands of airline flights are cancelled, rescheduled, or delayed, leading to negative sentiment from consumers, potential losses from cancelled flights and in the worse cases a chain reaction of delayed flights across multiple airports. For a consumer this leads to a negative customer experience and for the airlines themselves, can cause a decrease in customer & brand loyalty. This poses the question, what can airlines do to predict flight arrival delays? And from there how can airlines use statistical models and data analytics to mitigate potential loss from large delay times.
+
 There are several common factors used to predict airline flight delays. ‘National Air Security Delay’, ‘Carrier Delay’, ‘Weather Delay’, ‘Late Aircraft Delay’ and ‘Security Delay’ tend to be the most prevalent and will be used throughout the following report to predict arrival delays. Alongside these five common factors several other continuous variables will be analyzed to find any potential alternatives to predict arrival delays.
 Through the help of exploratory data analysis and regression modeling I was able to find that the most accurate determinant of airline arrival delays is the airline departure delay time. The potential applications of the model are vast and can be used on an ad-hoc basis to predict arrival delays, given a departure delay. In the report below a in depth discussion of the methods, data, regression techniques and more will follow, ending with recommendations and next steps.
 
