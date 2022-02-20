@@ -1,4 +1,4 @@
-# Airport_On_Time_Arrivals (Currently Working on Increasing Scope of Project, to include a cloud sql server, data from various states, multivaraible regression and more)
+# Airport_On_Time_Arrivals (Currently Working on Increasing Scope of Project, to include a cloud sql server, data from various states, multivariable regression and more)
 
 # Initial Regression Analysis (Simple Linear Regresion)
 ## Results Summary 
