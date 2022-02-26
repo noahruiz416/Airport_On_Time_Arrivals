@@ -1,8 +1,6 @@
-# (Currently Working on Increasing Scope of Project, to include a mySQL server, data from various states, multivariable regression and more)
+# Airline On Time Simple Regression Analysis
 
-### At the moment a mutlivariable model is used, in the regression model script, but in depth analysis is still under way
 
-## Initial Regression Analysis (Simple Linear Regresion)
 ## Results Summary 
 Every month thousands of airline flights are cancelled, rescheduled, or delayed, leading to negative sentiment from consumers, potential losses from cancelled flights and in the worse cases a chain reaction of delayed flights across multiple airports. For a consumer this leads to a negative customer experience and for the airlines themselves, can cause a decrease in customer & brand loyalty. This poses the question, what can airlines do to predict flight arrival delays? And from there how can airlines use statistical models and data analytics to mitigate potential loss from large delay times.
 
